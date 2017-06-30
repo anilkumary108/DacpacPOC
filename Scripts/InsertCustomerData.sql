@@ -1,0 +1,1 @@
+﻿INSERT INTO customer VALUES('testName1','pune',33333,'No')
